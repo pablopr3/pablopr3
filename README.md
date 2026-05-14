@@ -68,52 +68,54 @@ class PabloPio:
 
 ---
 
-<div align="center"><h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2></div>
+<div align="center">
+
+<h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2>
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="50%">
+
 <img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
+
+<br/><br/>
+
+Diseño **pipelines de datos robustos**, arquitecturas<br/>
+de ingesta en tiempo real y sistemas pensados para escalar.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Spark](https://img.shields.io/badge/Spark-0d1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![dbt](https://img.shields.io/badge/dbt-0d1117?style=flat-square&logo=dbt&logoColor=FF694B)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+
 </td>
 <td align="center" width="50%">
+
 <img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
-</td>
-</tr>
-<tr>
-<td valign="top" align="center">
 
-`Pipeline Design` &nbsp; `████████████`<br/>
-`Data Modeling` &nbsp;&nbsp;&nbsp; `██████████░░`<br/>
-`Orchestration` &nbsp;&nbsp;&nbsp; `█████████░░░`<br/>
-`Stream Processing` `████████░░░░`<br/>
-`Cloud & Infra` &nbsp;&nbsp;&nbsp; `█████████░░░`
+<br/><br/>
+
+Creo contenido técnico en **español** para que cualquier<br/>
+persona entienda el mundo del data desde cero.
 
 <br/>
 
-Diseño arquitecturas de datos robustas,<br/>
-pipelines de ingesta en tiempo real<br/>
-y sistemas pensados para escalar.
-
-</td>
-<td valign="top" align="center">
-
-`Didáctica Técnica` `████████████`<br/>
-`Comunidad` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████████░░`<br/>
-`Producción` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░░░`<br/>
-`Consistencia` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████████`<br/>
-`Impacto` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████████░░`
-
-<br/>
-
-Creo contenido técnico en **español**<br/>
-para que cualquier persona entienda<br/>
-el mundo del data desde cero.
+![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=flat-square&logo=tiktok&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)
+![+10K](https://img.shields.io/badge/+10K_seguidores-1a2744?style=flat-square&color=1a2744)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
