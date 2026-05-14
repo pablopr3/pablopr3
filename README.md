@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER WAVE - estilo original mejorado -->
+<!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2744,60:1a2744,100:0d1117&height=300&section=header&text=Pablo%20Pio&fontSize=86&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator&descSize=24&descAlignY=60&descAlign=50&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING -->
@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<!-- BADGES INFO -->
 <img src="https://img.shields.io/badge/%F0%9F%8C%8A_Canary_Islands%2C_Spain-1a2744?style=flat-square&color=1a2744"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_collaborate-1a2744?style=flat-square&color=1a2744"/>
@@ -21,7 +20,6 @@
 
 ---
 
-<!-- WHOAMI -->
 <div align="center"><h2>👾 &nbsp;whoami</h2></div>
 
 <br/>
@@ -70,61 +68,55 @@ class PabloPio:
 
 ---
 
-<!-- DUAL ROLE -->
-<div align="center">
-
-<h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2>
+<div align="center"><h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2></div>
 
 <br/>
 
-<table width="90%">
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
-
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
 
-<br/><br/>
-
-| Área | Nivel |
-|:-----|:------|
-| Pipeline Design | `████████████` |
-| Data Modeling | `██████████░░` |
-| Orchestration | `█████████░░░` |
-| Stream Processing | `████████░░░░` |
-| Cloud & Infra | `█████████░░░` |
+`Pipeline Design` &nbsp; `████████████`<br/>
+`Data Modeling` &nbsp;&nbsp;&nbsp; `██████████░░`<br/>
+`Orchestration` &nbsp;&nbsp;&nbsp; `█████████░░░`<br/>
+`Stream Processing` `████████░░░░`<br/>
+`Cloud & Infra` &nbsp;&nbsp;&nbsp; `█████████░░░`
 
 <br/>
 
-> Diseño arquitecturas de datos robustas,<br/>pipelines de ingesta en tiempo real<br/>y sistemas pensados para escalar.
+Diseño arquitecturas de datos robustas,<br/>
+pipelines de ingesta en tiempo real<br/>
+y sistemas pensados para escalar.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td valign="top" align="center">
 
-<img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
-
-<br/><br/>
-
-| Área | Nivel |
-|:-----|:------|
-| Didáctica Técnica | `████████████` |
-| Comunidad | `██████████░░` |
-| Producción | `█████████░░░` |
-| Consistencia | `████████████` |
-| Impacto | `██████████░░` |
+`Didáctica Técnica` `████████████`<br/>
+`Comunidad` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████████░░`<br/>
+`Producción` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░░░`<br/>
+`Consistencia` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████████`<br/>
+`Impacto` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████████░░`
 
 <br/>
 
-> Creo contenido técnico en **español**<br/>para que cualquier persona entienda<br/>el mundo del data desde cero.
+Creo contenido técnico en **español**<br/>
+para que cualquier persona entienda<br/>
+el mundo del data desde cero.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- TECH STACK -->
 <div align="center">
 
 <h2>🧰 &nbsp;Tech Stack</h2>
@@ -165,7 +157,6 @@ class PabloPio:
 
 ---
 
-<!-- STATS -->
 <div align="center">
 
 <h2>📊 &nbsp;GitHub Stats</h2>
@@ -182,7 +173,6 @@ class PabloPio:
 
 ---
 
-<!-- SNAKE -->
 <div align="center">
 
 <h2>🐍 &nbsp;Contributions</h2>
@@ -199,7 +189,6 @@ class PabloPio:
 
 ---
 
-<!-- CONNECT -->
 <div align="center">
 
 <h2>🌐 &nbsp;Encuéntrame en</h2>
@@ -220,7 +209,6 @@ class PabloPio:
 
 <br/><br/>
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2744,60:1a2744,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>Construyendo pipelines de día · Construyendo comunidad de noche · 🌊 Canarias</sub>
