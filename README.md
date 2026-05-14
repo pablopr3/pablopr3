@@ -1,21 +1,19 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Pablo%20Pio&fontSize=72&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator&descSize=20&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0d1f42,70:0d1f42,100:020817&height=280&section=header&text=Pablo%20Pio&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator&descSize=22&descAlignY=58&descAlign=50&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Data+Engineer+%2B+Content+Creator;Haciendo+el+data+accesible+en+espa%C3%B1ol+%F0%9F%87%AA%F0%9F%87%B8;Python+%E2%80%A2+SQL+%E2%80%A2+dbt+%E2%80%A2+Airflow+%E2%80%A2+Spark;%2B10K+comunidad+en+crecimiento+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyendo+pipelines+que+escalan+%F0%9F%9A%80;Haciendo+el+data+engineering+accesible+%F0%9F%87%AA%F0%9F%87%B8;Python+%E2%80%A2+dbt+%E2%80%A2+Airflow+%E2%80%A2+Spark+%E2%80%A2+Kafka;%2B10K+comunidad+aprendiendo+Data+en+espa%C3%B1ol" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- LOCATION & MISSION BADGES -->
-<img src="https://img.shields.io/badge/📍_Canary_Islands,_Spain-0d1117?style=flat-square&labelColor=1a2744&color=1a2744&logoColor=58a6ff" />
-&nbsp;
-<img src="https://img.shields.io/badge/🌊_Misión:_Data_en_Español-1a2744?style=flat-square&color=1a2744" />
-&nbsp;
-<img src="https://img.shields.io/badge/👥_+10K_Comunidad-1a2744?style=flat-square&color=1a2744" />
+<!-- BADGES INFO -->
+<img src="https://img.shields.io/badge/%F0%9F%8C%8A_Canary_Islands%2C_Spain-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_collaborate-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%91%A5_+10K_comunidad-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
 
 <br/><br/>
 
@@ -23,29 +21,48 @@
 
 ---
 
-<!-- ABOUT ME -->
-<table>
-<tr>
-<td width="60%">
+<!-- WHOAMI -->
+<div align="center"><h2>👾 &nbsp;whoami</h2></div>
 
-### `> whoami`
+<br/>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```python
-pablo_pio = {
-    "username"  : "pablopr3",
-    "roles"     : ["Data Engineer", "Content Creator"],
-    "location"  : "Canary Islands 🌊, Spain 🇪🇸",
-    "mission"   : "Hacer el data engineering accesible en español",
-    "community" : "+10K seguidores entre plataformas",
-    "languages" : ["Python", "SQL", "Español", "English"],
-    "currently" : "Building pipelines & growing community 🚀",
-}
+class PabloPio:
+
+    name       = "Pablo Pio"
+    username   = "pablopr3"
+    location   = "Canary Islands 🌊, Spain 🇪🇸"
+    roles      = ["Data Engineer", "Content Creator"]
+    community  = "+10K seguidores entre plataformas"
+    mission    = "Data engineering accesible en español"
+
+    stack = {
+        "languages"  : ["Python", "SQL", "Bash"],
+        "transform"  : ["dbt", "Spark"],
+        "orchestrate": ["Airflow", "Kafka"],
+        "infra"      : ["Docker", "Linux", "Git"],
+    }
+
+    def current_focus(self):
+        return [
+            "Escalando pipelines de datos 📦",
+            "Creando contenido técnico 🎥",
+            "Creciendo comunidad en español 🌍",
+        ]
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" width="100%"/>
 
 </td>
 </tr>
@@ -53,47 +70,49 @@ pablo_pio = {
 
 ---
 
-<!-- DUAL ROLE SECTION -->
-<div align="center">
+<!-- DUAL ROLE -->
+<div align="center"><h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2></div>
 
-## ⚡ Dos mundos. Un objetivo.
+<br/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🛠️ Data Engineer
+<img src="https://img.shields.io/badge/🛠️__DATA_ENGINEER-0d1f42?style=for-the-badge&color=0d1f42"/>
 
-```
-Pipeline Design      ████████████ 
-Data Modeling        ██████████░░ 
-Orchestration        █████████░░░ 
-Streaming            ████████░░░░ 
-Cloud & Infra        █████████░░░ 
-```
+<br/><br/>
 
-Diseño y construyo **pipelines de datos robustos**,  
-sistemas de ingesta en tiempo real y arquitecturas  
-data-first pensadas para escalar.
+| Área | Nivel |
+|------|-------|
+| Pipeline Design | `████████████` |
+| Data Modeling | `██████████░░` |
+| Orchestration | `█████████░░░` |
+| Stream Processing | `████████░░░░` |
+| Cloud & Infra | `█████████░░░` |
+
+<br/>
+
+> Diseño arquitecturas de datos robustas,<br/>pipelines de ingesta en tiempo real<br/>y sistemas pensados para escalar.
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🎥 Content Creator
+<img src="https://img.shields.io/badge/🎥__CONTENT_CREATOR-0d1f42?style=for-the-badge&color=0d1f42"/>
 
-```
-Didáctica Técnica    ████████████ 
-Comunidad            ██████████░░ 
-Producción           █████████░░░ 
-Consistencia         ████████████ 
-Impacto              ██████████░░ 
-```
+<br/><br/>
 
-Creo contenido técnico en **español** para que  
-cualquier persona pueda entender el mundo  
-del data engineering desde cero.
+| Área | Nivel |
+|------|-------|
+| Didáctica Técnica | `████████████` |
+| Comunidad | `██████████░░` |
+| Producción | `█████████░░░` |
+| Consistencia | `████████████` |
+| Impacto | `██████████░░` |
+
+<br/>
+
+> Creo contenido técnico en **español**<br/>para que cualquier persona entienda<br/>el mundo del data desde cero.
 
 </td>
 </tr>
@@ -104,43 +123,56 @@ del data engineering desde cero.
 <!-- TECH STACK -->
 <div align="center">
 
-## 🧰 Tech Stack
+<h2>🧰 &nbsp;Tech Stack</h2>
 
-**Core Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+**`LANGUAGES`**
 
-**Data Engineering**
+<br/>
 
-![dbt](https://img.shields.io/badge/dbt-0d1117?style=for-the-badge&logo=dbt&logoColor=FF694B)
-![Apache Airflow](https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-![Apache Spark](https://img.shields.io/badge/Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Apache Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Infrastructure & DevOps**
+<br/><br/>
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+**`DATA ENGINEERING`**
+
+<br/>
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+<br/><br/>
+
+**`INFRASTRUCTURE`**
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="49%"/>
+<h2>📊 &nbsp;GitHub Stats</h2>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pablopr3&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1f42&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pablopr3&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="80%"/>
 
 </div>
 
@@ -149,12 +181,14 @@ del data engineering desde cero.
 <!-- SNAKE -->
 <div align="center">
 
-## 🐍 Contributions
+<h2>🐍 &nbsp;Contributions</h2>
+
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
 
 </div>
@@ -164,27 +198,27 @@ del data engineering desde cero.
 <!-- CONNECT -->
 <div align="center">
 
-## 🌐 Encuéntrame en
+<h2>🌐 &nbsp;Encuéntrame en</h2>
 
 <br/>
 
-[![TikTok](https://img.shields.io/badge/TikTok-@vortidev-0d1117?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=010101)](https://www.tiktok.com/@vortidev)
+[![TikTok](https://img.shields.io/badge/TikTok-%40vortidev-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vortidev)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-@VortiDevv-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://www.youtube.com/@VortiDevv)
+[![YouTube](https://img.shields.io/badge/YouTube-%40VortiDevv-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VortiDevv)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Pio-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Pio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-pabloprdev@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:pabloprdev@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=for-the-badge&color=1a2744&label=PROFILE+VIEWS&abbreviated=true)
+[![Email](https://img.shields.io/badge/Email-pabloprdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloprdev@gmail.com)
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=for-the-badge&color=0d1f42&label=PROFILE+VIEWS&abbreviated=true)
 
-*Construyendo pipelines de día. Construyendo comunidad de noche.* 🌊
+<br/><br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0d1f42,70:0d1f42,100:020817&height=140&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>Construyendo pipelines de día · Construyendo comunidad de noche · 🌊 Canarias</sub>
 
 </div>
