@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Pablo%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Content%20Creator&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Pablo%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Content%20Creator&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 [![TikTok](https://img.shields.io/badge/@vortidev-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vortidev)
 [![YouTube](https://img.shields.io/badge/VortiDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VortiDevv)
-[![LinkedIn](https://img.shields.io/badge/Pablo_Pío-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
+[![LinkedIn](https://img.shields.io/badge/Pablo_Pio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
 [![Gmail](https://img.shields.io/badge/pabloprdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloprdev@gmail.com)
 
 </div>
@@ -18,15 +18,15 @@
 ```python
 class DataEngineer:
     def __init__(self):
-        self.name       = "Pablo Pío"
-        self.role       = "Data Engineer"
-        self.location   = "Canary Islands 🇪🇸"
-        self.community  = "+10K followers across TikTok, YouTube & LinkedIn"
-        self.focus      = ["data pipelines", "ETL", "modern data stack"]
-        self.currently  = "exploring dbt · Airflow · Spark"
+        self.name      = "Pablo Pio"
+        self.role      = "Data Engineer"
+        self.location  = "Canary Islands, Spain"
+        self.community = "+10K followers across TikTok, YouTube & LinkedIn"
+        self.focus     = ["data pipelines", "ETL", "modern data stack"]
+        self.learning  = ["dbt", "Airflow", "Spark"]
 
     def say_hi(self):
-        print("Building data pipelines by day, teaching them by night 🚀")
+        print("Building data pipelines by day, teaching them by night")
 
 me = DataEngineer()
 me.say_hi()
@@ -34,7 +34,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -67,21 +67,27 @@ me.say_hi()
 
 ---
 
-## 📹 Latest Content
+## Content & Community
+
+<div align="center">
 
 > Creating data engineering content in Spanish — making complex concepts practical and accessible.
 
-| 🎵 TikTok | 📺 YouTube |
-|-----------|-----------|
-| [@vortidev](https://www.tiktok.com/@vortidev) | [@VortiDevv](https://www.youtube.com/@VortiDevv) |
+| Platform | Channel |
+|----------|---------|
+| TikTok | [@vortidev](https://www.tiktok.com/@vortidev) |
+| YouTube | [@VortiDevv](https://www.youtube.com/@VortiDevv) |
+| LinkedIn | [Pablo Pio Ramos](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/) |
+
+</div>
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
-- 🔧 End-to-end **ETL pipelines** with Python & SQL
-- 📦 **Modern data stack** projects (dbt + Airflow)
-- 📖 Open source **data engineering resources** for the Spanish-speaking community
+- End-to-end ETL pipelines with Python & SQL
+- Modern data stack projects with dbt + Airflow
+- Open source data engineering resources for the Spanish-speaking community
 
 ---
 
