@@ -6,22 +6,12 @@
 
 <div align="center">
 
-<!-- ── HEADER MATRIX ──────────────────────────────────── -->
-<!-- 1. Sube matrix.gif a tu repo en: assets/matrix.gif  -->
-<!-- 2. El nombre y roles van encima con typing SVGs      -->
+<!-- ── HEADER (sube header.gif a assets/header.gif) ───── -->
+<img src="./assets/header.gif" width="100%" alt="Pablo Pio — Data Engineer × Content Creator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=1&pause=999999&color=005577&center=true&vCenter=true&width=600&lines=DATA+ENGINEER+%C2%B7+CONTENT+CREATOR" alt="roles"/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=720&lines=PABLO+PIO" alt="name"/>
-
-<picture>
-  <img src="./assets/matrix.gif" width="100%" alt="matrix rain"/>
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%2F%2F+building+data+pipelines+in+spanish;%2F%2F+canary+islands%2C+spain;%2F%2F+making+data+eng+accessible+%F0%9F%87%AA%F0%9F%87%B8;%2F%2F+data+engineer+%C3%97+content+creator" alt="tagline"/>
-
-<br/>
-
+<!-- ── BADGES ────────────────────────────────────────── -->
 ![](https://img.shields.io/badge/📍_Canary_Islands-000d1a?style=for-the-badge&logo=googlemaps&logoColor=00f0ff&labelColor=000d1a)
 ![](https://img.shields.io/badge/community_+10K-000d1a?style=for-the-badge&logo=rss&logoColor=00f0ff&labelColor=000d1a)
 ![](https://img.shields.io/badge/ES_%2F_EN-000d1a?style=for-the-badge&logo=googletranslate&logoColor=00f0ff&labelColor=000d1a)
@@ -88,7 +78,7 @@ class PabloPio:
 
 <br/>
 
-<!-- ── STREAK ──────────────────────────────────────────── -->
+<!-- ── STATS ───────────────────────────────────────────── -->
 
 <div align="center">
 
