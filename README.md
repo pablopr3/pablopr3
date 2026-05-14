@@ -68,15 +68,14 @@ class PabloPio:
 
 ---
 
-<div align="center">
-
-<h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2>
+<div align="center"><h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2></div>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
+<div align="center">
 
 <img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
 
@@ -85,7 +84,7 @@ class PabloPio:
 Diseño **pipelines de datos robustos**, arquitecturas<br/>
 de ingesta en tiempo real y sistemas pensados para escalar.
 
-<br/>
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
@@ -94,8 +93,10 @@ de ingesta en tiempo real y sistemas pensados para escalar.
 ![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 
+</div>
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
+<div align="center">
 
 <img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
 
@@ -104,18 +105,17 @@ de ingesta en tiempo real y sistemas pensados para escalar.
 Creo contenido técnico en **español** para que cualquier<br/>
 persona entienda el mundo del data desde cero.
 
-<br/>
+<br/><br/>
 
 ![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=flat-square&logo=tiktok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)
 ![+10K](https://img.shields.io/badge/+10K_seguidores-1a2744?style=flat-square&color=1a2744)
 
+</div>
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
