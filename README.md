@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0d1f42,70:0d1f42,100:020817&height=280&section=header&text=Pablo%20Pio&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator&descSize=22&descAlignY=58&descAlign=50&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<!-- HEADER WAVE - estilo original mejorado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2744,60:1a2744,100:0d1117&height=300&section=header&text=Pablo%20Pio&fontSize=86&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator&descSize=24&descAlignY=60&descAlign=50&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyendo+pipelines+que+escalan+%F0%9F%9A%80;Haciendo+el+data+engineering+accesible+%F0%9F%87%AA%F0%9F%87%B8;Python+%E2%80%A2+dbt+%E2%80%A2+Airflow+%E2%80%A2+Spark+%E2%80%A2+Kafka;%2B10K+comunidad+aprendiendo+Data+en+espa%C3%B1ol" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 <br/><br/>
 
 <!-- BADGES INFO -->
-<img src="https://img.shields.io/badge/%F0%9F%8C%8A_Canary_Islands%2C_Spain-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8A_Canary_Islands%2C_Spain-1a2744?style=flat-square&color=1a2744"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_collaborate-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_collaborate-1a2744?style=flat-square&color=1a2744"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%91%A5_+10K_comunidad-0d1f42?style=flat-square&color=0d1f42&labelColor=0d1f42"/>
+<img src="https://img.shields.io/badge/%F0%9F%91%A5_+10K_comunidad-1a2744?style=flat-square&color=1a2744"/>
 
 <br/><br/>
 
@@ -71,20 +71,22 @@ class PabloPio:
 ---
 
 <!-- DUAL ROLE -->
-<div align="center"><h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2></div>
+<div align="center">
+
+<h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2>
 
 <br/>
 
-<table width="100%">
+<table width="90%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/🛠️__DATA_ENGINEER-0d1f42?style=for-the-badge&color=0d1f42"/>
+<img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
 
 <br/><br/>
 
 | Área | Nivel |
-|------|-------|
+|:-----|:------|
 | Pipeline Design | `████████████` |
 | Data Modeling | `██████████░░` |
 | Orchestration | `█████████░░░` |
@@ -98,12 +100,12 @@ class PabloPio:
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/🎥__CONTENT_CREATOR-0d1f42?style=for-the-badge&color=0d1f42"/>
+<img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
 
 <br/><br/>
 
 | Área | Nivel |
-|------|-------|
+|:-----|:------|
 | Didáctica Técnica | `████████████` |
 | Comunidad | `██████████░░` |
 | Producción | `█████████░░░` |
@@ -117,6 +119,8 @@ class PabloPio:
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -168,11 +172,11 @@ class PabloPio:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1f42&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="68%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pablopr3&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pablopr3&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="78%"/>
 
 </div>
 
@@ -188,7 +192,7 @@ class PabloPio:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pablopr3/pablopr3/output/github-contribution-grid-snake-dark.svg" width="88%"/>
 </picture>
 
 </div>
@@ -212,12 +216,12 @@ class PabloPio:
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=for-the-badge&color=0d1f42&label=PROFILE+VIEWS&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=for-the-badge&color=1a2744&label=PROFILE+VIEWS&abbreviated=true)
 
 <br/><br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,30:0d1f42,70:0d1f42,100:020817&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2744,60:1a2744,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>Construyendo pipelines de día · Construyendo comunidad de noche · 🌊 Canarias</sub>
 
