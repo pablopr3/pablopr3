@@ -52,17 +52,18 @@ class DataEngineer:
 ---
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&hide_title=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" height="160"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pablopr3&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablopr3&theme=tokyo-night&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="100%"/>
-</div>
+<br/>
 
 ---
 
