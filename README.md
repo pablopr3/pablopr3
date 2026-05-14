@@ -1,64 +1,117 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Pablo%20Pio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20Canary%20Islands%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
-</div>
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Pablo%20Pio&fontSize=60&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Content%20Creator&descAlignY=58&descColor=90e0ef" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A7;Content+Creator+%F0%9F%8E%AC;Making+Data+Eng+accessible+in+Spanish+%F0%9F%87%AA%F0%9F%87%B8;+10K+community+%F0%9F%9A%80;Building+pipelines+%26+breaking+them+%F0%9F%98%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.tiktok.com/@vortidev"><img src="https://img.shields.io/badge/TikTok-@vortidev-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@VortiDevv"><img src="https://img.shields.io/badge/YouTube-VortiDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/"><img src="https://img.shields.io/badge/LinkedIn-Pablo_Pio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pabloprdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+<!-- LOCATION BADGE -->
+<img src="https://img.shields.io/badge/📍_Canary_Islands,_Spain-03045e?style=for-the-badge&logoColor=00b4d8" />
+&nbsp;
+<img src="https://img.shields.io/badge/💬_ES%2FEN-0077b6?style=for-the-badge&logoColor=00b4d8" />
+&nbsp;
+<img src="https://img.shields.io/badge/👥_+10K_Community-00b4d8?style=for-the-badge&logoColor=03045e" />
 
-<br/>
+</div>
 
 ---
 
+<div align="center">
+
+## `~/pablo_pio.py`
+
+</div>
+
 ```python
-class DataEngineer:
-    name      = "Pablo Pio"
-    location  = "Canary Islands, Spain"
-    community = "+10K followers on TikTok, YouTube & LinkedIn"
-    stack     = ["Python", "SQL", "dbt", "Airflow", "Spark", "Docker"]
-    mission   = "making data engineering accessible in Spanish"
+class PabloPio:
+
+    name        = "Pablo Pio"
+    username    = "pablopr3"
+    location    = "Canary Islands, Spain 🌋"
+
+    roles       = ["Data Engineer", "Content Creator"]
+    mission     = "Making Data Engineering accessible in Spanish"
+
+    stack       = {
+        "languages":     ["Python", "SQL"],
+        "transform":     ["dbt", "Spark"],
+        "orchestration": ["Airflow", "Kafka"],
+        "infra":         ["Docker", "Linux", "Git"],
+    }
+
+    community   = {
+        "tiktok":   "@vortidev",
+        "youtube":  "@VortiDevv",
+        "total":    "+10K followers",
+    }
+
+    contact     = "pabloprdev@gmail.com"
 ```
 
 ---
 
-<br/>
-
 <div align="center">
 
-**Languages & Query**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+## ⚡ Tech Stack
 
-**Modern Data Stack**&nbsp;&nbsp;
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+**Languages & Query**
 
-**Infra & Tools**&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-03045e?style=flat-square&logo=python&logoColor=00b4d8)
+![SQL](https://img.shields.io/badge/SQL-0077b6?style=flat-square&logo=postgresql&logoColor=00b4d8)
+
+**Data Engineering**
+
+![dbt](https://img.shields.io/badge/dbt-03045e?style=flat-square&logo=dbt&logoColor=00b4d8)
+![Apache Spark](https://img.shields.io/badge/Spark-0077b6?style=flat-square&logo=apachespark&logoColor=00b4d8)
+![Apache Airflow](https://img.shields.io/badge/Airflow-03045e?style=flat-square&logo=apacheairflow&logoColor=00b4d8)
+![Apache Kafka](https://img.shields.io/badge/Kafka-0077b6?style=flat-square&logo=apachekafka&logoColor=00b4d8)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-03045e?style=flat-square&logo=docker&logoColor=00b4d8)
+![Linux](https://img.shields.io/badge/Linux-0077b6?style=flat-square&logo=linux&logoColor=00b4d8)
+![Git](https://img.shields.io/badge/Git-03045e?style=flat-square&logo=git&logoColor=00b4d8)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pablopr3&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
-</div>
 
-<br/>
+## 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=pablopr3&theme=tokyonight&hide_border=true&background=03045E&ring=00B4D8&fire=0077B6&currStreakLabel=00B4D8&sideLabels=90E0EF&dates=90E0EF&currStreakNum=00B4D8&sideNums=90E0EF" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+## 🌐 Encuéntrame en
+
+[![TikTok](https://img.shields.io/badge/@vortidev-03045e?style=for-the-badge&logo=tiktok&logoColor=00b4d8)](https://www.tiktok.com/@vortidev)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/@VortiDevv-0077b6?style=for-the-badge&logo=youtube&logoColor=00b4d8)](https://www.youtube.com/@VortiDevv)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-03045e?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0077b6?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:pabloprdev@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=flat-square&color=00b4d8&label=Profile+Views)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&reversal=true&fontColor=00b4d8" width="100%"/>
 </div>
