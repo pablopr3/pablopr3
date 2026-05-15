@@ -54,13 +54,43 @@ class PabloPio:
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://img.shields.io/badge/Data_Engineering-1a2744?style=for-the-badge&color=1a2744"/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" width="100%"/>
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Content_Creation-1a2744?style=for-the-badge&color=1a2744"/>
+
+<br/><br/>
+
+[![TikTok](https://img.shields.io/badge/@vortidev-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vortidev)
+[![YouTube](https://img.shields.io/badge/@VortiDevv-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@VortiDevv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-pio-ramos-7501342b5/)
+
+<br/>
+
+![Seguidores](https://img.shields.io/badge/+10K_seguidores-1a2744?style=flat-square&color=1a2744)
 
 </td>
 </tr>
@@ -174,6 +204,11 @@ Creo contenido técnico en **español** para que cualquier<br/>persona entienda 
 <h2>📊 &nbsp;GitHub Stats</h2>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" width="41%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="68%"/>
 
