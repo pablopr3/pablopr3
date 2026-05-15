@@ -57,7 +57,7 @@ class PabloPio:
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="bottom">
+<td width="50%" align="center" valign="top">
 <div align="center">
 
 <img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
@@ -82,7 +82,7 @@ Diseño **pipelines de datos robustos**, arquitecturas de ingesta<br/>en tiempo 
 
 </div>
 </td>
-<td width="50%" align="center" valign="bottom">
+<td width="50%" align="center" valign="top">
 <div align="center">
 
 <img src="https://img.shields.io/badge/🎥_CONTENT_CREATOR-1a2744?style=for-the-badge&color=1a2744"/>
