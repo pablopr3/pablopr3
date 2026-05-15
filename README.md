@@ -20,9 +20,7 @@
 
 ---
 
-<div align="center">
-
-<h2>👾 &nbsp;whoami</h2>
+<div align="center"><h2>👾 &nbsp;whoami</h2></div>
 
 ```python
 class PabloPio:
@@ -48,8 +46,6 @@ class PabloPio:
             "Creciendo comunidad en español 🌍",
         ]
 ```
-
-</div>
 
 ---
 
