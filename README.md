@@ -24,7 +24,9 @@
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```python
 class PabloPio:
@@ -51,7 +53,18 @@ class PabloPio:
         ]
 ```
 
-</div>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -161,11 +174,6 @@ Creo contenido técnico en **español** para que cualquier<br/>persona entienda 
 <h2>📊 &nbsp;GitHub Stats</h2>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" width="41%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="68%"/>
 
