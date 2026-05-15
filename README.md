@@ -201,14 +201,4 @@ Creo contenido técnico en **español** para que cualquier<br/>persona entienda 
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-pabloprdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloprdev@gmail.com)
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pablopr3&style=for-the-badge&color=1a2744&label=PROFILE+VIEWS&abbreviated=true)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2744,60:1a2744,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>Construyendo pipelines de día · Construyendo comunidad de noche · 🌊 Canarias</sub>
-
 </div>
