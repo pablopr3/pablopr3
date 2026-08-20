@@ -49,7 +49,24 @@ class PabloPio:
 
 ---
 
+<div align="center">
 
+<h2>⚡ &nbsp;Dos mundos. Un objetivo.</h2>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<div align="center">
+
+<img src="https://img.shields.io/badge/🛠️_DATA_ENGINEER-1a2744?style=for-the-badge&color=1a2744"/>
+
+<br/><br/>
+
+Diseño **pipelines de datos robustos**, arquitecturas de ingesta<br/>en tiempo real y sistemas pensados para escalar.
+
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 &nbsp;
