@@ -90,26 +90,7 @@ class PabloPio:
 
 ---
 
-<div align="center">
 
-<h2>📊 &nbsp;GitHub Stats</h2>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pablopr3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopr3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" width="41%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablopr3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=58a6ff&fire=f78166&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=30363d" width="68%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pablopr3&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="78%"/>
-
-</div>
-
----
 
 <div align="center">
 
